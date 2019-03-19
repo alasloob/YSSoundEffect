@@ -4,9 +4,8 @@ An iOS app created as part of my first project in the iOS Nanodegree program ( P
 ---------------------------------------------------------------------------------------------
 The Sound Effect app allows users to record a sound using the device's microphone. It then allows users to play the recorded sound back with effects.
 
-![App logo](001.png)
+![App logo](001.png) ![App logo](002.png)
 
-![App logo](002.png)
 
 
 ## Compatibility
